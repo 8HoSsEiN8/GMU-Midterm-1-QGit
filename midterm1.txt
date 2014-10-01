@@ -1,7 +1,2 @@
-Q4-b:
-git checkout -b abcdefg
-git add midterm1.txt
-git commit -m "Q4-b"
-git remote add origin https://github.com/8HoSsEiN8/GMU-Midterm-1-QGit.git
-git push -u origin abcdefg
+Because robots are people too
 
