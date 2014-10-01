@@ -5,3 +5,8 @@ git commit -m "Q4-b"
 git remote add origin https://github.com/8HoSsEiN8/GMU-Midterm-1-QGit.git
 git push -u origin abcdefg
 
+Q4-c:
+git checkout -b hijklmno abcdefg
+git commit -m "Q4-b"
+git push -u origin hijklmno
+Video -> http://youtu.be/bQpv6OdbJ7w
