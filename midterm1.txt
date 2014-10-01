@@ -7,6 +7,7 @@ git push -u origin abcdefg
 
 Q4-c:
 git checkout -b hijklmno abcdefg
+git add midterm1.txt
 git commit -m "Q4-b"
 git push -u origin hijklmno
 Video -> http://youtu.be/bQpv6OdbJ7w
